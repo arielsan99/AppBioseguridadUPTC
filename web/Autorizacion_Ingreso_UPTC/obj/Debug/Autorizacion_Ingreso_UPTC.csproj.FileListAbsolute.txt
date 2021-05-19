@@ -1,0 +1,137 @@
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Autorizacion_Ingreso_UPTC.dll.config
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Autorizacion_Ingreso_UPTC.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Autorizacion_Ingreso_UPTC.pdb
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\csc.exe
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\csc.exe.config
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\csc.rsp
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\csi.exe
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\csi.rsp
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\System.AppContext.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\vbc.exe
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\vbc.exe.config
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\vbc.rsp
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\VBCSCompiler.exe
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Antlr3.Runtime.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\EntityFramework.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\EntityFramework.SqlServer.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Newtonsoft.Json.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Helpers.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Mvc.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Optimization.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Razor.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.WebPages.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.WebPages.Razor.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\WebGrease.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\EntityFramework.xml
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\EntityFramework.SqlServer.xml
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Helpers.xml
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Mvc.xml
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Optimization.xml
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Razor.xml
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.WebPages.xml
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.WebPages.Razor.xml
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Newtonsoft.Json.xml
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Antlr3.Runtime.pdb
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.Razor.resources.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\obj\Debug\Autorizacion_Ingreso_UPTC.csprojAssemblyReference.cache
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\obj\Debug\Autorizacion_Ingreso_UPTC.csproj.CoreCompileInputs.cache
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\obj\Debug\Autorizacion_Ingreso_UPTC.csproj.CopyComplete
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\obj\Debug\Autorizacion_Ingreso_UPTC.dll
+C:\Users\garci\source\repos\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\obj\Debug\Autorizacion_Ingreso_UPTC.pdb
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Autorizacion_Ingreso_UPTC.dll.config
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Autorizacion_Ingreso_UPTC.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Autorizacion_Ingreso_UPTC.pdb
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\csc.exe
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\csc.exe.config
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\csc.rsp
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\csi.exe
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\csi.rsp
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\System.AppContext.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\vbc.exe
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\vbc.exe.config
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\vbc.rsp
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\VBCSCompiler.exe
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Antlr3.Runtime.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\EntityFramework.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\EntityFramework.SqlServer.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Newtonsoft.Json.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Helpers.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Mvc.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Optimization.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Razor.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.WebPages.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.WebPages.Razor.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\WebGrease.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\EntityFramework.xml
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\EntityFramework.SqlServer.xml
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Helpers.xml
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Mvc.xml
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Optimization.xml
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.Razor.xml
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.WebPages.xml
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\System.Web.WebPages.Razor.xml
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Newtonsoft.Json.xml
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Antlr3.Runtime.pdb
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.Razor.resources.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\obj\Debug\Autorizacion_Ingreso_UPTC.csprojAssemblyReference.cache
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\obj\Debug\Autorizacion_Ingreso_UPTC.csproj.CoreCompileInputs.cache
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\obj\Debug\Autorizacion_Ingreso_UPTC.csproj.CopyComplete
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\obj\Debug\Autorizacion_Ingreso_UPTC.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\obj\Debug\Autorizacion_Ingreso_UPTC.pdb
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\BouncyCastle.Crypto.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\itextsharp.dll
+C:\Users\garci\OneDrive\Escritorio\Trabajo de Campo\Autorizacion_Ingreso_UPTC\Autorizacion_Ingreso_UPTC\bin\itextsharp.xml

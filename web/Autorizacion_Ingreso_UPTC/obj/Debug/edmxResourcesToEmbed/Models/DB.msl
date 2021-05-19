@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AutorizacionModelStoreContainer" CdmEntityContainer="AutorizacionEntities2">
+    <EntitySetMapping Name="Informacion">
+      <EntityTypeMapping TypeName="AutorizacionModel.Informacion">
+        <MappingFragment StoreEntitySet="Informacion">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="TipoVinculacion" ColumnName="TipoVinculacion" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="TipoIdentificacion" ColumnName="TipoIdentificacion" />
+          <ScalarProperty Name="NumeroIdentificacion" ColumnName="NumeroIdentificacion" />
+          <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+          <ScalarProperty Name="DireccionResidencia" ColumnName="DireccionResidencia" />
+          <ScalarProperty Name="CuidadSede" ColumnName="CuidadSede" />
+          <ScalarProperty Name="NumeroCelular" ColumnName="NumeroCelular" />
+          <ScalarProperty Name="Edad" ColumnName="Edad" />
+          <ScalarProperty Name="Temperatura" ColumnName="Temperatura" />
+          <ScalarProperty Name="Tos" ColumnName="Tos" />
+          <ScalarProperty Name="DificultadRespiratoria" ColumnName="DificultadRespiratoria" />
+          <ScalarProperty Name="MalestarGeneral" ColumnName="MalestarGeneral" />
+          <ScalarProperty Name="CongestionNasal" ColumnName="CongestionNasal" />
+          <ScalarProperty Name="PerdidaOlfatoGusto" ColumnName="PerdidaOlfatoGusto" />
+          <ScalarProperty Name="ContactoCovid" ColumnName="ContactoCovid" />
+          <ScalarProperty Name="InstalacionDestino" ColumnName="InstalacionDestino" />
+          <ScalarProperty Name="TipoIngreso" ColumnName="TipoIngreso" />
+          <ScalarProperty Name="FechaIngreso" ColumnName="FechaIngreso" />
+          <ScalarProperty Name="HoraIngreso" ColumnName="HoraIngreso" />
+          <ScalarProperty Name="HolaSalida" ColumnName="HolaSalida" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

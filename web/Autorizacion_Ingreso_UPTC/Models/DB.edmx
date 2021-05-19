@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="AutorizacionModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Informacion">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="TipoVinculacion" Type="varchar" MaxLength="50" />
+          <Property Name="Nombre" Type="varchar" MaxLength="50" />
+          <Property Name="TipoIdentificacion" Type="varchar" MaxLength="50" />
+          <Property Name="NumeroIdentificacion" Type="varchar" MaxLength="50" />
+          <Property Name="Ciudad" Type="varchar" MaxLength="50" />
+          <Property Name="DireccionResidencia" Type="varchar" MaxLength="50" />
+          <Property Name="CuidadSede" Type="varchar" MaxLength="50" />
+          <Property Name="NumeroCelular" Type="varchar" MaxLength="50" />
+          <Property Name="Edad" Type="int" />
+          <Property Name="Temperatura" Type="varchar" MaxLength="50" />
+          <Property Name="Tos" Type="bit" />
+          <Property Name="DificultadRespiratoria" Type="bit" />
+          <Property Name="MalestarGeneral" Type="bit" />
+          <Property Name="CongestionNasal" Type="bit" />
+          <Property Name="PerdidaOlfatoGusto" Type="bit" />
+          <Property Name="ContactoCovid" Type="bit" />
+          <Property Name="InstalacionDestino" Type="varchar" MaxLength="50" />
+          <Property Name="TipoIngreso" Type="varchar" MaxLength="50" />
+          <Property Name="FechaIngreso" Type="datetime" />
+          <Property Name="HoraIngreso" Type="varchar" MaxLength="50" />
+          <Property Name="HolaSalida" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityContainer Name="AutorizacionModelStoreContainer">
+          <EntitySet Name="Informacion" EntityType="Self.Informacion" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="AutorizacionModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Informacion">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="TipoVinculacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="TipoIdentificacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="NumeroIdentificacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Ciudad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="DireccionResidencia" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="CuidadSede" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="NumeroCelular" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Edad" Type="Int32" />
+          <Property Name="Temperatura" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Tos" Type="Boolean" />
+          <Property Name="DificultadRespiratoria" Type="Boolean" />
+          <Property Name="MalestarGeneral" Type="Boolean" />
+          <Property Name="CongestionNasal" Type="Boolean" />
+          <Property Name="PerdidaOlfatoGusto" Type="Boolean" />
+          <Property Name="ContactoCovid" Type="Boolean" />
+          <Property Name="InstalacionDestino" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="TipoIngreso" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="FechaIngreso" Type="DateTime" Precision="3" />
+          <Property Name="HoraIngreso" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="HolaSalida" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="AutorizacionEntities2" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Informacion" EntityType="Self.Informacion" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="AutorizacionModelStoreContainer" CdmEntityContainer="AutorizacionEntities2">
+          <EntitySetMapping Name="Informacion">
+            <EntityTypeMapping TypeName="AutorizacionModel.Informacion">
+              <MappingFragment StoreEntitySet="Informacion">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="TipoVinculacion" ColumnName="TipoVinculacion" />
+                <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+                <ScalarProperty Name="TipoIdentificacion" ColumnName="TipoIdentificacion" />
+                <ScalarProperty Name="NumeroIdentificacion" ColumnName="NumeroIdentificacion" />
+                <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+                <ScalarProperty Name="DireccionResidencia" ColumnName="DireccionResidencia" />
+                <ScalarProperty Name="CuidadSede" ColumnName="CuidadSede" />
+                <ScalarProperty Name="NumeroCelular" ColumnName="NumeroCelular" />
+                <ScalarProperty Name="Edad" ColumnName="Edad" />
+                <ScalarProperty Name="Temperatura" ColumnName="Temperatura" />
+                <ScalarProperty Name="Tos" ColumnName="Tos" />
+                <ScalarProperty Name="DificultadRespiratoria" ColumnName="DificultadRespiratoria" />
+                <ScalarProperty Name="MalestarGeneral" ColumnName="MalestarGeneral" />
+                <ScalarProperty Name="CongestionNasal" ColumnName="CongestionNasal" />
+                <ScalarProperty Name="PerdidaOlfatoGusto" ColumnName="PerdidaOlfatoGusto" />
+                <ScalarProperty Name="ContactoCovid" ColumnName="ContactoCovid" />
+                <ScalarProperty Name="InstalacionDestino" ColumnName="InstalacionDestino" />
+                <ScalarProperty Name="TipoIngreso" ColumnName="TipoIngreso" />
+                <ScalarProperty Name="FechaIngreso" ColumnName="FechaIngreso" />
+                <ScalarProperty Name="HoraIngreso" ColumnName="HoraIngreso" />
+                <ScalarProperty Name="HolaSalida" ColumnName="HolaSalida" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

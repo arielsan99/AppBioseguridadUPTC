@@ -1,0 +1,95 @@
+﻿@model Autorizacion_Ingreso_UPTC.Models.ViewModels.InformacionViewModel
+@{
+    ViewBag.Title = "Editar";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("Editar", "Informacion", FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-md-12">
+            @Html.HiddenFor(d=>d.Id)
+            <div>
+                @Html.LabelFor(d => d.TipoVinculacion)
+                @Html.TextBoxFor(d => d.TipoVinculacion, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.TipoVinculacion, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.Nombre)
+                @Html.TextBoxFor(d => d.Nombre, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Nombre, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.TipoIdentificacion)
+                @Html.TextBoxFor(d => d.TipoIdentificacion, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.TipoIdentificacion, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.NumeroIdentificacion)
+                @Html.TextBoxFor(d => d.NumeroIdentificacion, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.NumeroIdentificacion, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.Ciudad)
+                @Html.TextBoxFor(d => d.Ciudad, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Ciudad, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.DireccionResidencia)
+                @Html.TextBoxFor(d => d.DireccionResidencia, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.DireccionResidencia, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.CuidadSede)
+                @Html.TextBoxFor(d => d.CuidadSede, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.CuidadSede, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.NumeroCelular)
+                @Html.TextBoxFor(d => d.NumeroCelular, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.NumeroCelular, null, new { @class = "red" })
+
+            </div>
+            <div>
+                @Html.LabelFor(d => d.Edad)
+                @Html.TextBoxFor(d => d.Edad, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Edad, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.InstalacionDestino)
+                @Html.TextBoxFor(d => d.InstalacionDestino, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.InstalacionDestino, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.TipoIngreso)
+                @Html.TextBoxFor(d => d.TipoIngreso, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.TipoIngreso, null, new { @class = "red" })
+            </div>
+            
+            <div>
+                @Html.LabelFor(d => d.FechaIngreso)
+                <br />
+                @Html.EditorFor(d => d.FechaIngreso, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.FechaIngreso, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.HoraIngreso)
+                @Html.TextBoxFor(d => d.HoraIngreso, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.HoraIngreso, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.HolaSalida)
+                @Html.TextBoxFor(d => d.HolaSalida, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.HolaSalida, null, new { @class = "red" })
+                <br />
+            </div>
+        </div>
+        <div style="text-align:right;">
+            <input value="Guardar" class="btn btn-primary" type="submit" />
+        </div>
+
+    </div>
+}
+
+

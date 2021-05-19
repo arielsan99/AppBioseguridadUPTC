@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AutorizacionModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Informacion">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TipoVinculacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TipoIdentificacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NumeroIdentificacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Ciudad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DireccionResidencia" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CuidadSede" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NumeroCelular" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Edad" Type="Int32" />
+    <Property Name="Temperatura" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Tos" Type="Boolean" />
+    <Property Name="DificultadRespiratoria" Type="Boolean" />
+    <Property Name="MalestarGeneral" Type="Boolean" />
+    <Property Name="CongestionNasal" Type="Boolean" />
+    <Property Name="PerdidaOlfatoGusto" Type="Boolean" />
+    <Property Name="ContactoCovid" Type="Boolean" />
+    <Property Name="InstalacionDestino" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TipoIngreso" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FechaIngreso" Type="DateTime" Precision="3" />
+    <Property Name="HoraIngreso" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="HolaSalida" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="AutorizacionEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Informacion" EntityType="Self.Informacion" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AutorizacionModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Informacion">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TipoVinculacion" Type="varchar" MaxLength="50" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" />
+    <Property Name="TipoIdentificacion" Type="varchar" MaxLength="50" />
+    <Property Name="NumeroIdentificacion" Type="varchar" MaxLength="50" />
+    <Property Name="Ciudad" Type="varchar" MaxLength="50" />
+    <Property Name="DireccionResidencia" Type="varchar" MaxLength="50" />
+    <Property Name="CuidadSede" Type="varchar" MaxLength="50" />
+    <Property Name="NumeroCelular" Type="varchar" MaxLength="50" />
+    <Property Name="Edad" Type="int" />
+    <Property Name="Temperatura" Type="varchar" MaxLength="50" />
+    <Property Name="Tos" Type="bit" />
+    <Property Name="DificultadRespiratoria" Type="bit" />
+    <Property Name="MalestarGeneral" Type="bit" />
+    <Property Name="CongestionNasal" Type="bit" />
+    <Property Name="PerdidaOlfatoGusto" Type="bit" />
+    <Property Name="ContactoCovid" Type="bit" />
+    <Property Name="InstalacionDestino" Type="varchar" MaxLength="50" />
+    <Property Name="TipoIngreso" Type="varchar" MaxLength="50" />
+    <Property Name="FechaIngreso" Type="datetime" />
+    <Property Name="HoraIngreso" Type="varchar" MaxLength="50" />
+    <Property Name="HolaSalida" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="AutorizacionModelStoreContainer">
+    <EntitySet Name="Informacion" EntityType="Self.Informacion" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
